@@ -1,2 +1,1 @@
-import asim
-asim.aorovel()
+rt isksknbs
